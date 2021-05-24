@@ -2,13 +2,13 @@
  * Sample React Native App
  * https://github.com/facebook/react-native
  *
- * @format
- * @flow strict-local
+//  * @format
+//  * @flow strict-local
  */
 
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import CoinsStack from 'tyCrypto/src/components/coins/CoinsStack';
+import CoinsStack from 'tuCrypto/src/components/Coins/CoinsStack';
 
 const App = () => {
   return (
