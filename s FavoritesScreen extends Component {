@@ -1,0 +1,89 @@
+[33mcommit 859edaab185824a35f135e3c1ad48eaa4e7f3db1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Tue May 25 13:37:24 2021 -0500
+
+    Eliminando Favoritos - Color de boton de Agregar Corregido
+
+[33mcommit 821a10b3e40f37ae4527dd8829a3d06f841e09e3[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Tue May 25 13:03:48 2021 -0500
+
+    Creando Boton de Agregar - Correccion de Storage
+
+[33mcommit 57f13a25644505e51451101a398b931fdfd5b568[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Tue May 25 11:47:34 2021 -0500
+
+    Creacion de la Libreria Storage
+
+[33mcommit 8e4328836964f3717e002496d6c906a4a470a0e1[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Tue May 25 11:21:55 2021 -0500
+
+    Creacion de la seccion de Favoritos - Cuando esta  Vacio
+
+[33mcommit d97f501d6f324577d024fffdbe40255341d81e13[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Tue May 25 10:38:51 2021 -0500
+
+    Agregando Tabs - Tab Coins Hecho
+
+[33mcommit ac18d725f97477e4da0f4b94493b1de412bcf9d3[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Tue May 25 10:03:19 2021 -0500
+
+    Buscador con TextInput
+
+[33mcommit 7135b7e3a90e0a5f1da86bdff3b35cfc5d2d60fa[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Tue May 25 00:04:32 2021 -0500
+
+    Creacion de Listas Horizontales de Detalle
+
+[33mcommit e0cd995554ae17412c9fe869b7e4dbc87345e248[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Mon May 24 23:18:57 2021 -0500
+
+    Creando la Vista de Detalle
+
+[33mcommit c39ba086aca54d30d6cfda08aa513c5d12f89066[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Mon May 24 21:38:36 2021 -0500
+
+    Pasar informacion entre Pantallas
+
+[33mcommit f1378bcf85dc37e370e2105f6bbfe23bef7505e1[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Mon May 24 21:17:13 2021 -0500
+
+    Generando Estilos a la FlatList
+
+[33mcommit 4e8729e09d25eed80344eb63b33d944d3cd3b617[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Mon May 24 19:55:45 2021 -0500
+
+    Lista con FlatList
+
+[33mcommit c6f1d9d9d10a2903168cd24d70b61ef41b892fec[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Mon May 24 19:06:02 2021 -0500
+
+    Usando una REST API
+
+[33mcommit 322d31228908a356ffb8ea3d55fe00d6cc0ddfc9[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Mon May 24 18:02:05 2021 -0500
+
+    Agregando Nueva Pantalla Basica
+
+[33mcommit 518cf8892d66d21fdd48b3f7c23f5e0b1bb9afea[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Mon May 24 17:27:08 2021 -0500
+
+    Virtualizacion Android Funcionando
+
+[33mcommit 81635dae6c9f5ed28f08eeebb501cd9ad398140d[m
+Author: DanielChambueta <chambuetadaniel@gmail.com>
+Date:   Mon May 24 14:33:47 2021 -0500
+
+    Primer StackNavigator - Inicio de Aplicacion

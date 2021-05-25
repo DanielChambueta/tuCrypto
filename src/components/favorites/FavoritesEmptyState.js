@@ -21,6 +21,6 @@ const styles = StyleSheet.create({
     fontSize: 18,
     alignSelf: "center"
   }
-})
+});
 
 export default FavoritesEmptyState;
