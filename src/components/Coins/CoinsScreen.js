@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { View, FlatList, Text, StyleSheet, ActivityIndicator } from 'react-native';
 import Http from 'tuCrypto/src/libs/http';
 import CoinsItem from './CoinsItem';
+import Colors from 'tuCrypto/src/res/colors';
 
 class CoinsScreen extends Component {
 
@@ -47,7 +48,7 @@ class CoinsScreen extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#FFF",
+    backgroundColor: Colors.charade,
   },
   titleText: {
     color: "#FFF",
